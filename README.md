@@ -137,27 +137,6 @@ START
 
 ## 🛠️ Advanced Customization
 
-### Edit Speed
-```lua
--- In Settings tab → Adjust "Speed" slider
--- Or manually in code:
-local spd = 200  -- change this value
-```
-
-### Edit C4 Timing
-```lua
--- In Settings tab → Adjust "C4 Delay" slider
--- Or manually in code:
-local c4d = 0.7  -- change this value
-```
-
-### Edit Mission Positions
-Find coordinates in each mission function and replace with new values:
-```lua
-local foxLogic = function(d, e, f)
-  mv(d, spd)  -- teleport to position d
-```
-
 ## 📈 Performance Metrics
 
 ```
