@@ -147,14 +147,6 @@ START
 │ Take Over Sub   │ ~60 seconds total  │
 │ Defeat Giga     │ ~90 seconds total  │
 └─────────────────┴────────────────────┘
-
-┌─────────────────────────────────────┐
-│ REWARD APPROXIMATION (Hard)         │
-├─────────────────┬────────────────────┤
-│ Save Saber Fox  │ $2,500 - $3,500    │
-│ Take Over Sub   │ $3,000 - $4,500    │
-│ Defeat Giga     │ $5,000 - $8,000    │
-└─────────────────┴────────────────────┘
 ```
 
 ## ⚠️ Important Warnings
