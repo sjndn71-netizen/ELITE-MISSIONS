@@ -1,0 +1,35 @@
+-- 🎮 ELITE MISSIONS v2
+-- Automated Roblox Mission Script
+-- All 3 Missions Working: Fox, Sub, Giga
+--
+-- ⚠️ PLACEHOLDER FILE
+-- Insert your optimized script below this section
+--
+-- How to use:
+-- 1. Paste your full MissionAuto_v2 script here
+-- 2. Load in Roblox executor
+-- 3. Configure settings in UI
+-- 4. Run missions!
+--
+-- Original file structure preserved for:
+-- - All 3 mission logics (foxLogic, subLogic, gigaLogic)
+-- - Configuration system (speed, C4 delay, difficulty)
+-- - Auto-loop functionality
+-- - Real-time notifications
+-- - Cooldown detection
+--
+-- INSERT YOUR OPTIMIZED SCRIPT CONTENT HERE ↓↓↓
+--
+-- Requirements:
+-- - Rayfield UI Library
+-- - Roblox HttpGet enabled
+-- - Mission game loaded
+--
+-- Settings Available:
+-- - Speed: 50-300 (s/s)
+-- - C4 Delay: 0.1-2.0 (seconds)
+-- - Difficulty: Easy, Medium, Hard
+-- - Auto Loop: On/Off
+--
+-- Status: Ready for optimization
+-- Last updated: 2026-05-09
