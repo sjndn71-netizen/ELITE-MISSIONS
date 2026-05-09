@@ -27,7 +27,7 @@
 
 ```lua
 -- 1. Load the script in your Roblox executor
-loadstring(game:HttpGet('https://raw.githubusercontent.com/sjndn71-netizen/ELITE-MISSIONS/main/MissionAuto_v2.lua'))()
+loadstring(game:HttpGet(''))()
 
 -- 2. Open Elite Missions menu
 -- 3. Select mission & difficulty
