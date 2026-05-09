@@ -1,4 +1,4 @@
-# 🎮 ELITE MISSIONS v2
+# 🎮 ELITE MISSIONS 
 
 > **Automated Roblox Mission Script - All 3 Missions Working**
 
