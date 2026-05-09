@@ -161,9 +161,7 @@ START
 
 - ⛔ **Do not use on public servers** - Use private games only
 - ⛔ **Use at your own risk** - May trigger anti-cheat
-- ⛔ **Test on alt accounts first** - Before main account
-- ⛔ **Don't abuse auto-loop** - Leave gaps between runs
-- ⛔ **Check for updates** - Patch changes can break script
+- ⛔ **Test on alt accounts first** - No main account
 
 ## 🔧 Troubleshooting
 
@@ -183,10 +181,8 @@ START
 - ✅ Verify proximity prompts exist
 
 ### Getting Kicked
-- ✅ Reduce speed (less obvious movement)
-- ✅ Add delays between auto-loops
 - ✅ Use different executor
-- ✅ Check for anti-cheat updates
+
 
 ## 📝 Version History
 
@@ -198,14 +194,9 @@ START
 - 📊 Cooldown detection system
 - 🎨 Professional UI with Rayfield
 
-### v1.0 - Original
-- 🦊 Save Saber Fox mission only
-- Basic automation
-
 ## 🤝 Credits
 
-**Created by:** Kimi  
-**Optimized by:** Community Contributors  
+**Created by:** Kimi / Me   
 **UI Framework:** Rayfield  
 **Last Updated:** 2026-05-09
 
@@ -230,7 +221,6 @@ START
 1. 💬 Check README troubleshooting
 2. 🐛 Review mission logic functions
 3. ⏱️ Adjust speed/delay settings
-4. 🔍 Verify coordinates are correct
 5. 📞 Report issues on GitHub
 
 ## 📜 License
