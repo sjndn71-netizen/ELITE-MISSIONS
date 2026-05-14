@@ -214,7 +214,7 @@ START
 2. 🐛 Review mission logic functions
 3. ⏱️ Adjust speed/delay settings
 5. 📞 Report issues on GitHub
-
+6. Dc:https://discord.gg/BrcgNc8pbn
 ## 📜 License
 
 All rights reserved. See LICENSE file for terms.
